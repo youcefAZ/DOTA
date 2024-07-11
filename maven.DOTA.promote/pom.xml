@@ -20,7 +20,7 @@
 
 	<dependencies>
             <dependency>
-                <groupId>com.fastcube.tibco.Infra.APP6.DOTA</groupId>
+                <groupId>com.fastcube.tibco.Its.APP6.DOTA</groupId>
                 <artifactId>bw.mc-DOTA.application</artifactId>
                 <version>${project.version}</version>
                 <type>ear</type>
